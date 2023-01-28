@@ -19,7 +19,7 @@
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "dotenv": "^16.0.0",
     "hardhat-deploy": "^0.11.4",
-    "web3": "^1.7.3"
+    "web3": "^1.8.1"
   },
   "scripts": {
     "lint-fix": "npm run lint-sol-fix && npm run lint-js-fix && npm run lint-json-fix",
